@@ -1,26 +1,24 @@
-# Estudos Engenharia de Software - 🚀
-Bem-vindo ao meu repositório de jornada acadêmica! Aqui registro tudo o que aprendo no curso de Engenharia de Software, iniciado em Março de 2026.
+# 🎓 Estudos de Engenharia de Software - Unicesumar
 
-## 📌 Sobre Mim
-* **Nome:** Felipe
-* **Objetivo:** Aprender Python, Portugol e dominar a criação de algoritmos eficientes.
+Repositório destinado à organização de materiais, resumos e exercícios da graduação iniciada em Março de 2026.
 
-## 📚 Disciplinas em Foco
-### [Fundamentos e Arquitetura de Computadores](./fundamentos-arquitetura/)
-Estudo sobre como os computadores funcionam "debaixo do capô", baseado no livro de Edmar Alves Senne.
-* Conceitos de Hardware e Software.
-* Arquitetura de Von Neumann.
-* Sistemas Binários e Portas Lógicas.
+## 📂 Organização por Disciplinas
 
-### [Lógica de Programação](./logica-programacao/)
-Desenvolvimento de algoritmos e resolução de problemas.
-* **Linguagens:** Python e Portugol.
-* **Tópicos:** Estruturas de decisão, repetição e ordenação (ex: Bubble Sort).
+Aqui você encontra o progresso de cada matéria do semestre:
 
-## 📂 Organização do Repositório
-* `/fundamentos-arquitetura`: Resumos teóricos e mapas mentais.
-* `/logica-programacao`: Scripts, exercícios e desafios de código.
-* `/anotacoes`: Insights de aulas e leituras complementares.
+* **[Fundamentos e Arquitetura de Computadores](./01-Arquitetura-de-Computadores/Resumo-Introducao.md)**
+    * *Status:* Lendo o livro .
+    * *Conteúdo:* Hardware, Software e Introdução à Arquitetura.
+
+* **Algoritmos e Lógica de Programação**
+    * *Status:* Em breve.
+    * *Foco:* Python e Portugol.
 
 ---
-"O sucesso é a soma de pequenos esforços repetidos dia após dia."
+## 🚀 Objetivos de Curto Prazo
+- [x] Criar estrutura do GitHub.
+- [ ] Finalizar o Capítulo 2 do livro de Arquitetura.
+- [ ] Iniciar os primeiros scripts em Python.
+
+---
+*Mantido por [Felipe (fsilva-eng)](https://github.com/fsilva-eng)*
